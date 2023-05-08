@@ -2,8 +2,8 @@
 
 ### First and Last Name: STAMPOULOU MARIA
 ### University Registration Number: dpsd19121
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### GitHub Personal Profile:[ xxx](https://github.com/mar-stamp)
+### Digital-Storytelling-Individual-Assignment: [xxx](https://github.com/mar-stamp/Digital-Storytelling-Individual-Assignment)
 
 # Introduction
 
