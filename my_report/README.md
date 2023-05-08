@@ -27,28 +27,49 @@ Following the tutorial I added 3 cameras so that they would switch with each oth
 
 >
 >
+>
+>
 
 >![blend cams](https://user-images.githubusercontent.com/100956389/236770014-1b222394-61bc-4aef-aba0-d2d903920663.PNG)
 
 
 
 
-UNITY 6
-
-Again following the tutorial again I added lights for the Street. I changed their colors and brightness until I was satisfied. I also made a spot light turn on and off. This can be seen in the final animation in the first scene, on the building behind the human dancing. Then I applied fog to the scene.
-
-![spotlights](https://user-images.githubusercontent.com/100956389/236770909-00301980-de9a-430a-a926-988f61c01aea.PNG)
-![on_off](https://user-images.githubusercontent.com/100956389/236774097-1e75b33a-6a61-4be8-9547-ece4505fd1e0.PNG)
-![fog](https://user-images.githubusercontent.com/100956389/236771408-98b66334-99f1-40a3-a13b-2ad31dd77e58.PNG)
-
-UNIT 7
-
-Finally, I added some Visual Effects in the Scene actually on the road I added smoke and some particles. 
+>UNITY 6
+>
+>
+>Again following the tutorial again I added lights for the Street. I changed their colors and brightness until I was satisfied. I also made a spot light turn on and off. This can be seen in the final animation in the first scene, on the building behind the human dancing. Then I applied fog to the scene.
+>
+>
+>![spotlights](https://user-images.githubusercontent.com/100956389/236770909-00301980-de9a-430a-a926-988f61c01aea.PNG)
+>
+>
+>
+>![on_off](https://user-images.githubusercontent.com/100956389/236774097-1e75b33a-6a61-4be8-9547-ece4505fd1e0.PNG)
+>
+>
+>
+>![fog](https://user-images.githubusercontent.com/100956389/236771408-98b66334-99f1-40a3-a13b-2ad31dd77e58.PNG)
+>
+>
+>
+>UNIT 7
+>
+>
+>Finally, I added some Visual Effects in the Scene actually on the road I added smoke and some particles. 
+>
+>
+>
 ![smoke](https://user-images.githubusercontent.com/100956389/236772243-9f0e4d2f-2b6a-464b-ac0f-8d5b8f7635a9.PNG)
-I did the process for the sparks but it didn't displayed in the final animation. Although the process was right, it didn't displayed because when I created this project I was supposed to make it as a 3d URP instead of a 3d so I couldnt complete the sparks bullet. But I made a Particle system to resemble the sparks just for the visual beauty of the animation. 
+>
+>
+>
+>I did the process for the sparks but it didn't displayed in the final animation. Although the process was right, it didn't displayed because when I created this project I was supposed to make it as a 3d URP instead of a 3d so I couldnt complete the sparks bullet. But I made a Particle system to resemble the sparks just for the visual beauty of the animation. 
 Lastly I added the song I wanted for background music.
-![sparks](https://user-images.githubusercontent.com/100956389/236773663-31c2c8a8-b978-45f1-8d46-7b4e49bfa401.PNG)
-![music](https://user-images.githubusercontent.com/100956389/236774807-6480aeb7-5d37-443e-9f23-aa78328904e5.PNG)
+>![sparks](https://user-images.githubusercontent.com/100956389/236773663-31c2c8a8-b978-45f1-8d46-7b4e49bfa401.PNG)
+>>
+>
+>![music](https://user-images.githubusercontent.com/100956389/236774807-6480aeb7-5d37-443e-9f23-aa78328904e5.PNG)
 
 
 
