@@ -21,8 +21,16 @@ Aρχικά για background έφτιαξα μέσω του unity ένα κύβ
 UNIT 5
 
 Following the tutorial I added 3 cameras so that they would switch with each other. Then during the Recording I made two camera blended with each other.
-![vcams](https://user-images.githubusercontent.com/100956389/236769910-a4227ab0-7e18-48c4-977a-dc8be93813a7.PNG)
-![blend cams](https://user-images.githubusercontent.com/100956389/236770014-1b222394-61bc-4aef-aba0-d2d903920663.PNG)
+
+
+>![vcams](https://user-images.githubusercontent.com/100956389/236769910-a4227ab0-7e18-48c4-977a-dc8be93813a7.PNG)
+
+>
+>
+
+>![blend cams](https://user-images.githubusercontent.com/100956389/236770014-1b222394-61bc-4aef-aba0-d2d903920663.PNG)
+
+
 
 
 UNITY 6
