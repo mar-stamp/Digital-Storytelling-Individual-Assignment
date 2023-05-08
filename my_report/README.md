@@ -18,6 +18,12 @@ Aρχικά για background έφτιαξα μέσω του unity ένα κύβ
 
 # 2nd Deliverable
 
+UNIT 5
+
+Following the tutorial I added 3 cameras so that they would switch with each other. Then during the Recording I made two camera blended with each other.
+![vcams](https://user-images.githubusercontent.com/100956389/236769910-a4227ab0-7e18-48c4-977a-dc8be93813a7.PNG)
+
+
 
 # 3rd Deliverable 
 
